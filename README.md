@@ -5,10 +5,9 @@
 안녕하세요. 대한민국 서울에 살고있는 임주한입니다.
 데이터분석가 꿈을 목표로 공부중입니다.
 
-- 🔭 I’m currently a CS student at Mansoura Unversity.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Naver](starlexy@naver.com)
+- 🔭 
+- 📚 현재 주로 공부하는 언어는 R,SQL,Python입니다 
+- 👯 새로운 친구들사귀길 좋아하고 함께하는걸 좋아합니다
+- 📫 이메일:[naver](mailto:starlexy@naver.com)
 
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+⭐️ 방문해주셔서 감사합니다~
