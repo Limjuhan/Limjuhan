@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-안녕하세요. 대한민국 서울에 살고있는 임주한입니다.
+
 
 -Language
 <div align="left">
