@@ -32,3 +32,8 @@
 - 📫 이메일:[naver](mailto:starlexy@naver.com) or [Daum](mailto:juhan2002@daum.net)
 <br>
 ⭐️ 방문해주셔서 감사합니다~
+<br><br><br><br><br><br><br>
+
+![Limjuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limjuhan&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limjuhan&layout=compact&theme=dracula)
+
