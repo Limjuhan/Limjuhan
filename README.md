@@ -34,6 +34,15 @@
 ⭐️ 방문해주셔서 감사합니다~
 <br><br><br><br><br><br><br>
 
+<h3 align="center">💡 My Git Stats 💡</h3>
 ![Limjuhan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Limjuhan&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limjuhan&layout=compact&theme=dracula)
+
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Limjuhan&layout=compact&theme=dracula)
+
+
+
+
+
+
 
