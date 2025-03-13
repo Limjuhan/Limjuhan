@@ -38,7 +38,7 @@
 ![Limjuhan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Limjuhan&count_private=true&show_icons=true&theme=dracula)
 
 ## 💡 My Most Used Languages 💡
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limjuhan&hide=jupyter&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limjuhan&hide=jupyter%20notebook&layout=compact&theme=dracula)
 
 
 
