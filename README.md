@@ -30,7 +30,7 @@
 - 🔭 
 - 📚 
 - 👯 
-- 📫 이메일:[naver](mailto:starlexy@naver.com) or [Daum](mailto:juhan2002@daum.net)
+- 📫 이메일:[Google](mailto:starsting1@gmail.com) or [Naver](mailto:starlexy@naver.com) 
 <br>
 ⭐️ 방문해주셔서 감사합니다~
 <br>
