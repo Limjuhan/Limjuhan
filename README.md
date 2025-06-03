@@ -27,9 +27,6 @@
 </div>
 <br>
 
-- 🔭 
-- 📚 
-- 👯 
 - 📫 이메일:[Google](mailto:starsting1@gmail.com) or [Naver](mailto:starlexy@naver.com) 
 <br>
 ⭐️ 방문해주셔서 감사합니다~
