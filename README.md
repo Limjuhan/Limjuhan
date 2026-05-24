@@ -18,7 +18,7 @@
 |   💼 **직군**    | Web Developer (Backend Focus)         |
 | 🌱 **현재 학습** | Spring Boot, RESTful API 설계         |
 | 💡 **관심 분야** | 서버 아키텍처, 클린 코드, 협업 효율화 |
-|   📍 **위치**    | 대한민국                              |
+|   📍 **위치**    | 서울시                             |
 |  📫 **연락처**   | starsting1@gmail.com                  |
 
 ---
